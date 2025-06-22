@@ -10,7 +10,7 @@ This repository contains a professional analysis of **European-style options** o
   - Black-Scholes model
   - Binomial Tree (CRR)
   - Monte Carlo simulation
-- **Data**: Daily stock prices of HPG (2007–2025)
+- **Data**: Daily stock prices of HPG (12/14/2007–6/20/2025)
 - **Volatility Models**:
   - Historical volatility (35.18%)
   - GARCH(1,1) forecast volatility (24.48%)
