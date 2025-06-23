@@ -6,7 +6,7 @@ This repository contains a comprehensive financial data analysis project on the 
 
 ## Repository Structure
 - `HPG-Yahoo Finance using R.Rmd`: install database
-- - `HPG_VN.csv`: Historical daily stock price data for HPG (2007–2025) from Yahoo Finance.
+- - `HPG_VN.csv`: Historical daily stock price data for HPG (2007–20/6/2025) from Yahoo Finance.
 - `Option_Pricing_Analysis_for_Hoa_Phat_Group_(HPG).ipynb`: Jupyter Notebook with Python code for data manipulation, visualization, and analysis.
 - `Option Pricing Analysis for Hoa Phat Group (HPG).pdf`: Final analytical report summarizing theoretical models, analysis results, and investment recommendations.
 
