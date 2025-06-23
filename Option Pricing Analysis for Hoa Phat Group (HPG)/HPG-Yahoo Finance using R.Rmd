@@ -1,0 +1,21 @@
+
+```{r}
+
+if (!require(quantmod)) install.packages("quantmod")
+
+library(quantmod)
+
+start_date <- as.Date("2007-12-14")  
+end_date   <- as.Date("2025-06-21")    
+
+
+getSymbols("HPG.VN", src = "yahoo", from = start_date, to = end_date)
+
+head(HPG.VN)
+
+
+write.zoo(HPG.VN, file = "HPG_VN.csv", sep = ",", index.name = "Date")
+
+```
+
+
